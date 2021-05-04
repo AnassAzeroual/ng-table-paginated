@@ -1,3 +1,3 @@
 # ng-table-paginated
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/AnassAzeroual/ng-table-paginated/main/Capture.PNG)
